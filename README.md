@@ -31,6 +31,6 @@ http://localhost:5000/?from=BRL&to=USD&amount=100
 ## Info:
  Altere a URL para mudar as informações.
 
- From - Moeda atual
- To - Moeda Final
- Amount - Quantidade
+ From - Moeda atual<br/>
+ To - Moeda Final<br/>
+ Amount - Quantidade<br/>
