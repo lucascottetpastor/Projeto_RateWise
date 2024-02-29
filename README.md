@@ -17,5 +17,5 @@ python -m pip install -r requirements.txt
 ```
 4 - Executar programa
 ```
-run TesteBackEnd.py
+python TesteBackEnd.py
 ```
