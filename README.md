@@ -10,7 +10,7 @@ Desafio Técnico desenvolvedor backend Python, usando bibliotecas requests e fla
 
 1 - Clonar repositório
 ```
-git clone https://github.com/xhiowzin/backend_flask
+git clone https://github.com/lucascottetpastor/backend_flask
 ```
 2 - Entrar na pasta do arquivo
 ```
