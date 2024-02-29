@@ -1,8 +1,9 @@
 Desafio Técnico desenvolvedor backend Python, usando bibliotecas requests e flask.
 
 ## README:
- Este é um servidor Flask que fornece uma API para converter valores de uma moeda para outra, usando as taxas de câmbio de uma API. 
- Aqui está uma breve explicação do que o código faz e como executá-lo:
+ Este é um servidor Flask que fornece uma API para converter valores de uma moeda para outra (USD, BRL, EUR, BTC e ETH), usando as taxas de câmbio da API.<br/>
+ Foi utilizado o USD como moeda de lastro, o valor foi pego da API: "https://economia.awesomeapi.com.br/"<br/>
+ <br/>Aqui está uma breve explicação de como executá-lo:
 
 ## Para a execução do programa:
  Faça a instalação do Python (https://www.python.org) e siga os seguintes passos no CMD:
